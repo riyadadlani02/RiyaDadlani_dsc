@@ -69,6 +69,11 @@ Evaluate the model using classification metrics.
 
 
 Conclusion
+
+
 This project provides insights into the state of new coders, their learning patterns, and income levels. By clustering and classifying the data, we can better understand the different groups of new coders and the factors that influence their income levels.
+
+
 Contributions
+
 Feel free to open issues or submit pull requests if you have any suggestions or improvements.
