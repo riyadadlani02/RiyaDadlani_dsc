@@ -19,8 +19,8 @@ Git
 Installation
 
 Clone the repository:
-git clone https://github.com/YourUsername/Yourname_dscTaskRound.git
-cd Yourname_dscTaskRound
+git clone https://github.com/riyadadlani02/RiyaDadlani_dsc.git
+cd RiyaDadlani_dsc
 
 
 Create a virtual environment:
