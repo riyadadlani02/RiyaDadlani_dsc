@@ -44,7 +44,7 @@ Download the dataset from Kaggle and place the CSV file in the project directory
 
 
 Open the Jupyter Notebook:
-Navigate to the project directory and open the notebook file (Untitled20.ipynb).
+Navigate to the project directory and open the notebook file (DSC.ipynb).
 Run the cells in the notebook sequentially to perform data analysis, clustering, and classification.
 
 
