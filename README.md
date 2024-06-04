@@ -9,10 +9,17 @@ Cluster Analysis: Group new coders into clusters and understand the characterist
 Classification: Build machine learning models to predict whether a developer earns a high income based on their information.
 
 Setup Instructions
+
+
 Prerequisites
 
+
 Python 3.x
+
+
 Jupyter Notebook or any other IDE for running Python code
+
+
 Git
 
 
